@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+<AddIn Type="Application">
+<Name>Family Manager Basic</Name>
+<Assembly>.\FamilyManagerBasic.dll</Assembly>
+<ClientId>6B6780F8-7EFE-4B5B-978A-1B032CD518F3</ClientId>
+<FullClassName>FamMgr.FamMgrBasicAppln</FullClassName>
+<VendorId>HTSS</VendorId>
+</AddIn>
+</RevitAddIns>

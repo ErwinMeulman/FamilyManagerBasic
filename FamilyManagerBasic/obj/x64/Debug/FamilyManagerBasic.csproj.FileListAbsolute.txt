@@ -1,0 +1,2 @@
+E:\C#\Hi-Tech\FamilyManagerBasic\FamilyManagerBasic\obj\x64\Debug\FamilyManagerBasic.csprojResolveAssemblyReference.cache
+E:\C#\Hi-Tech\FamilyManagerBasic\FamilyManagerBasic\obj\x64\Debug\FamilyManagerBasic.csproj.CoreCompileInputs.cache
